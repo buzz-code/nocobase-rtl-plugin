@@ -1,0 +1,27 @@
+{
+  "name": "@buzz-code/nocobase-rtl-plugin",
+  "version": "1.0.0",
+  "license": "GPL-3.0",
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buzz-code/nocobase-rtl-plugin"
+  },
+  "description": "A NocoBase plugin for RTL support.",
+  "keywords": [
+    "rtl",
+    "plugin",
+    "nocobase"
+  ],
+  "main": "dist/server/index.js",
+  "dependencies": {},
+  "peerDependencies": {
+    "@nocobase/client": "1.x",
+    "@nocobase/server": "1.x",
+    "@nocobase/test": "1.x"
+  }
+}
