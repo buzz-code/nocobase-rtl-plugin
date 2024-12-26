@@ -8,6 +8,8 @@
  */
 
 module.exports = {
-  "@nocobase/client": "1.3.52",
-  "@nocobase/server": "1.3.52"
+  "@nocobase/client": "1.4",
+  "react": "18.3.1",
+  "antd": "5.12.8",
+  "@nocobase/server": "1.4"
 };
